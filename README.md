@@ -1,1 +1,1 @@
-LearnHarness exists to make learning more comfortable, sustainable, and human.
+Make learning more comfortable without making learning less meaningful.
